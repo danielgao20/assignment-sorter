@@ -13,10 +13,10 @@ The program will read in a txt file that contains a list of assignments with the
 If the input file contains:
 
 ```
-MATH 126, Homework 5, 4/20/23
-ENGL 101, Essay 3, 4/25/23
 PHYS 121, Lab report 2, 5/1/23
+MATH 126, Homework 5, 4/20/23
 CHEM 123, Quiz 4, 5/5/23
+ENGL 101, Essay 3, 4/25/23
 ```
 
 The program should output the following chart:
