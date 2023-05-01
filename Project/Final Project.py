@@ -1,5 +1,4 @@
 # NAME: <Daniel Gao>
-# ID: <6765756413>
 # DATE: 2023-05-03
 # DESCRIPTION: ITP Final Project, implement an assignment sorting program for practice with lists, comparison operators,
 #               and file I/O in Python.
