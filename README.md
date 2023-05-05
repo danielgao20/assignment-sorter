@@ -2,6 +2,8 @@
 # Python Assignment Sorter
 Final Project for ITP 116: Accelerated Programming in Python.
 
+## Inspiration
+To be completed.
 
 ## Objectives
 Implement an assignment sorting program for practice with lists, comparison operators, and file I/O in Python. 
