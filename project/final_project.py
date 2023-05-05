@@ -89,7 +89,6 @@ def display_assignments(assignments):
 def main():
     print("Assignment Sorter")
     filename = input('Enter the name of the file containing assignments: ')
-    filename = input('Enter the name of the file containing assignments: ')
     try:
         assignments = read_assignments(filename)
     except FileNotFoundError:
