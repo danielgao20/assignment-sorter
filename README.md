@@ -1,3 +1,4 @@
+https://img.shields.io/github/repo-size/danielgao20/assignment-sorter?style=for-the-badge
 
 # Python Assignment Sorter
 Final Project for ITP 116: Accelerated Programming in Python.
